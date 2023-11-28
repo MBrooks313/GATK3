@@ -1,0 +1,18 @@
+__default__:
+     extra_opts: ""
+bwa:
+     extra_opts: --gres=lscratch:100
+removeDups:
+    extra_opts: --gres=lscratch:100
+rdc:
+    extra_opts: --gres=lscratch:100
+indelrealn:
+    extra_opts: --gres=lscratch:100
+baserecalb:
+    extra_opts: --gres=lscratch:100
+printrecalb:
+    extra_opts: --gres=lscratch:100
+qcrecalb:
+    extra_opts: --gres=lscratch:100
+qcrecalbplot:
+    extra_opts: --gres=lscratch:100
